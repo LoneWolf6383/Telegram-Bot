@@ -1,2 +1,2 @@
-worker: node i grammy
+worker: npm i grammy
 worker: node bot.js
