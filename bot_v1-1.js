@@ -1,5 +1,5 @@
 const { Bot } = require('grammy')
-const bot = new Bot('1935343602:AAHfkwxvYWVoxlIGUKFCaJYHOC_uUKgcx0s')
+const bot = new Bot('1935343602:AAFofE4L6Or_vt4Zq_DY1ON3vY4IHiXD7-o')
 const { need,hi,no,thanks,quality,quality_prompt,terms,fine,cmdbot,no_prompt1,no_prompt2,thanks_prompt,need_prompt,terms_prompt,happy_stickers,hi_stickers,no_stickers,need_stickers,fast } = require('./variables.js')
 var fileid
 bot.on("message:text",async (ctx)=>{
